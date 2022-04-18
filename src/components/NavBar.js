@@ -2,7 +2,7 @@ import React from 'react';
 
 function NavBar ({ currentPage, handlePageChange }) {
   return (
-  <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+  <nav class="navbar navbar-expand-lg navbar-light bg-primary ">
     <div class="container-fluid">
       <a className='navbar-brand' href='#'>Joseph M. Campbell</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

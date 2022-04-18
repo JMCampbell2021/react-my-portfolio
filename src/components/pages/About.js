@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function About() {
   return (
-    <div>
+    <div className='container-fluid mh-100 p-5' >
       <h1>About Me</h1>
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
