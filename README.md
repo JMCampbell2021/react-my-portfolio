@@ -47,7 +47,7 @@ For this assignment/challenge I was tasked with creating a portfolio using React
 
 ## Live Application Link
 
-For live application please click [Portfolio]().
+For live application please click [Portfolio](https://jmcampbell2021.github.io/react-my-portfolio).
 
 ## Contact Information
 
