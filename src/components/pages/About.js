@@ -1,10 +1,11 @@
 import React from 'react';
+import ProfilePic from '../../assets/images/avator.png'
 
 export default function About() {
   return (
     <div className='container-fluid mh-100 p-5' >
       <h1>About Me</h1>
-      <img src='https://via.placeholder.com/250?text=TBD for Photo'></img>
+      <img src={ProfilePic}></img>
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
         Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
